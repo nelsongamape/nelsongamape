@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nelsongamape
 - 👀 I’m interested in learn about software development
 - 🌱 I’m currently learning .net
-- 💞️ I’m looking to collaborate on any code taht needs an ortographic correction
+- 💞️ I’m looking to collaborate on any code that needs an ortographic correction
 - 📫 How to reach me.. just tag me here!
 
 <!---
