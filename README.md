@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nelsongamape
-- 👀 Studying to become a Big Data Engineer
-- 🌱 Currently working with Java using IntelliJ
+- 👀 Learning more and more about AI
+- 🌱 Currently working as QA Musing both: MAnual and Automated tests
 - 👴 Yes! I'm old but still learning fast!
 - And I love bikes 🚲
 
