@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nelsongamape
 - 👀 Learning more and more about AI
-- 🌱 Currently working as QA Musing both: MAnual and Automated tests
+- 🌱 Currently working as QA using both: Manual and Automated tests
 - 👴 Yes! I'm old but still learning fast!
 - And I love bikes 🚲
 
